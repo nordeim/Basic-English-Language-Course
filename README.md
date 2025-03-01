@@ -28,7 +28,7 @@ Each section includes detailed explanations, examples, and exercises that aim to
 
 A strong vocabulary is essential for clear communication. In this section, we will introduce you to 100 of the most common words in English. These words will serve as the foundation for constructing simple sentences and understanding spoken English.
 
-### 1.2 The Most Common 100 Words
+### 1.2 The Most Common 500 Words
 
 Below is a sample exercise adapted from our source material. Choose the correct word to complete each sentence. After the exercise, we will discuss strategies for memorizing and using these words in everyday conversation.
 
