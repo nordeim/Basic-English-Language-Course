@@ -1,8 +1,8 @@
-Below is the final detailed English course material. It has been structured to merge the vocabulary and grammar tests with the basic grammar explanations into a cohesive course designed to help non-native speakers build foundational English communication skills.
+Below is the detailed English course material. It has been structured to merge the vocabulary and grammar tests with the basic grammar explanations into a cohesive course designed to help non-native speakers build foundational English communication skills.
 
 ---
 
-# Basic English Language Course Material
+# Basic English Language Course
 
 ## Introduction
 
